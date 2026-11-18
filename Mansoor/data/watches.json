@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Classic Gold Watch",
+        "category": "Vintage",
+        "price": 25000,
+        "image": "images/watch1.jpg",
+        "description": "A beautiful classic gold watch with an elegant design."
+    },
+    {
+        "id": 2,
+        "name": "Royal Luxury Watch",
+        "category": "Luxury",
+        "price": 45000,
+        "image": "images/watch2.jpg",
+        "description": "A premium luxury watch for a stylish look."
+    },
+    {
+        "id": 3,
+        "name": "Modern Smart Watch",
+        "category": "Smart Watches",
+        "price": 18000,
+        "image": "images/watch3.jpg",
+        "description": "A modern smartwatch with useful smart features."
+    },
+    {
+        "id": 4,
+        "name": "Silver Classic Watch",
+        "category": "Vintage",
+        "price": 22000,
+        "image": "images/watch4.jpg",
+        "description": "A stylish silver watch with a timeless design."
+    },
+    {
+        "id": 5,
+        "name": "Diamond Edition",
+        "category": "Luxury",
+        "price": 65000,
+        "image": "images/watch5.jpg",
+        "description": "An exclusive luxury watch with a premium finish."
+    },
+    {
+        "id": 6,
+        "name": "Sport Smart Watch",
+        "category": "Smart Watches",
+        "price": 15000,
+        "image": "images/watch6.jpg",
+        "description": "A smart sports watch for everyday activities."
+    }
+]
